@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kubeczki.vcxproj" Id="1479703f-4045-4bcc-ae2a-0c192a9f02ef" />
+</Solution>
