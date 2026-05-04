@@ -133,6 +133,8 @@
     <ClCompile Include="cup.cpp" />
     <ClCompile Include="cup.h" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="new_class_to_commit.cpp" />
+    <ClCompile Include="new_class_to_commit.h" />
     <ClCompile Include="substances.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

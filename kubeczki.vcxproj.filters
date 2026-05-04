@@ -32,5 +32,11 @@
     <ClCompile Include="cup.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="new_class_to_commit.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="new_class_to_commit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
